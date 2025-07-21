@@ -1,3 +1,4 @@
+use context dcic2024
 include image
 
 # Problem 1
